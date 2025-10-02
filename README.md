@@ -210,17 +210,11 @@ pip install -r requirements.txt         # Windows
 
 👨‍💻 Автор
 Veselov Danila
-
 Telegram: @botdev_solutions
-
 GitHub: @dvsloff
 
 💬 Поддержка
 Если у вас есть вопросы или предложения:
-
-Создайте Issue на GitHub
-
 Напишите в Telegram: @dvsloff/@botdev_solutions
-
-
 Опишите проблему детально для быстрого решения
+
